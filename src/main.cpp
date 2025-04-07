@@ -12,7 +12,7 @@ void loop() {
   // put your main code here, to run repeatedly:
 }
 
-// put function definitions here:
+// put function definitions hre:
 int myFunction(int x, int y) {
   return x + y;
 }
